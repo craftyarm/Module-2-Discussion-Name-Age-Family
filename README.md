@@ -1,4 +1,4 @@
-# Data Elements and Their Data Types
+# Data Elements
 
 ## Child’s Name
 - **Data Type:** `String`
